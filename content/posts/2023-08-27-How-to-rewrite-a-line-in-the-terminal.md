@@ -1,7 +1,9 @@
 ---
 title: "How to Rewrite a Line in the Terminal"
 date: 2023-08-27T09:45:19-03:00
-draft: true
+categories:
+  - Code
+draft: false
 ---
 
 I have always liked when you run a command on the terminal and the output is updated in the same line, not having lots of prints in the terminal is something that I always wanted to do but never searched.
