@@ -13,6 +13,7 @@ author = 'Leonardo de Requeséns'
   _merge = "deep"
 
 [params]
+ mainSections = ['posts']
   [params.prism]
     languages = [
       "bash",
