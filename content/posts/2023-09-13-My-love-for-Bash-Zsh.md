@@ -1,8 +1,6 @@
 ---
 title: "My Love for Bash Zsh"
 date: 2023-09-13T17:03:00-03:00
-categories:
-  - code
 tags:
   - bash
 draft: false
