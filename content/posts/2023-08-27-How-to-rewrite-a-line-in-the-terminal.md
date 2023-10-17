@@ -58,7 +58,8 @@ int main() {
 
 And with this I can get the expected result but doing this is boring, I want to see the numbers changing. This is why I decided to generate a simple timer in C.
 
-And why not other languages?, it should work the same way!. Well then I will also do it on Go, Rust, Python and maybe Typescript or... Bash. With this simple exercise I will learn a few things from this languages.
+And why not other languages?, it should work the same way!. Well then I will also do it on Go, Rust, Python and maybe Typescript or... Bash. With this simple exercise I will learn a few things from these languages.
 
 ---
 You can get the code here: [github](https://github.com/Leonardo-de-Requesens/Timer)
+

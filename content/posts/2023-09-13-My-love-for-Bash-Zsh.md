@@ -5,7 +5,7 @@ categories:
   - code
 tags:
   - bash
-draft: true
+draft: false
 ---
 I have always liked running programs from my terminal, I like how it feels and also that I have to know what I'm doing (`rm -rf --no-preserve-root /`, I'm looking at you). So it was just the next step to learn about piping commands, functions, variables and more.
 
@@ -35,3 +35,4 @@ Display prompt on standard error, without a trailing newline, before attempting 
 
 ---
 You can get my scripts here: [GitHub](https://github.com/Leonardo-de-Requesens/scripts)
+

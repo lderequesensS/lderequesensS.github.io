@@ -22,6 +22,7 @@
       "meta",
       "nav",
       "noscript",
+      "ol",
       "p",
       "path",
       "pre",
@@ -80,18 +81,21 @@
       "post-header",
       "post-heading__anchor",
       "post-meta",
+      "post-tag",
+      "post-tags",
       "search",
       "search__suggestions--hidden",
       "sidebar",
       "theme__toggle"
     ],
     "ids": [
+      "draft-true",
       "menu",
       "prism-dark",
       "prism-light",
       "search__suggestions",
       "search__text",
-      "this-is-h1"
+      "what-did-i-learn"
     ]
   }
 }
