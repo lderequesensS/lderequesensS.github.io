@@ -12,6 +12,32 @@ author = 'Leonardo de Requeséns'
   # The theme enables writeStats which is required for PurgeCSS
   _merge = "deep"
 
+[params]
+  [params.prism]
+    languages = [
+      "bash",
+      "markup",
+      "css",
+      "clike",
+      "javascript",
+      "typescript",
+      "python",
+      "c",
+      "go",
+      "rust",
+      "ruby"
+    ]
+    plugins = [
+      "normalize-whitespace",
+      "toolbar",
+      "copy-to-clipboard"
+    ]
+  # Tags are shown on the bottom rigth of the page
+  [params.tagCloud]
+    enable = true
+    minFontSizeRem = 0.8
+    maxFontSizeRem = 2.0
+
 # This hopefully will be simpler in the future.
 # See: https://github.com/schnerring/hugo-theme-gruvbox/issues/16
 [module]
