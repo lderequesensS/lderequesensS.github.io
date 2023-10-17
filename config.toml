@@ -1,7 +1,7 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'lderequesens'
-author = 'Leonardo de Requeséns'
+author = "Leonardo de Requeséns"
 
 [markup]
   # (Optional) To be able to use all Prism plugins, the theme enables unsafe
@@ -13,7 +13,9 @@ author = 'Leonardo de Requeséns'
   _merge = "deep"
 
 [params]
- mainSections = ['posts']
+ [params.logo]
+  text = "lderequesens"
+  url = "/"
   [params.prism]
     languages = [
       "bash",
