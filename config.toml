@@ -85,3 +85,21 @@ author = "Leonardo de Requeséns"
   [[module.mounts]]
     source = "node_modules/@tabler/icons/icons"
     target = "assets/tabler-icons"
+
+
+[menu]
+  [[menu.main]]
+    identifier = "blog"
+    name = "Blog"
+    url = "/"
+    weight = 10
+  [[menu.main]]
+   identifier = "cv"
+   name = "CV"
+   url = "/cv"
+   weight = 20
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about"
+    weight = 30
