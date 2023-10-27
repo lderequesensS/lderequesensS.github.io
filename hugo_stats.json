@@ -11,6 +11,7 @@
       "footer",
       "h1",
       "h2",
+      "h3",
       "head",
       "header",
       "hr",
@@ -28,6 +29,7 @@
       "pre",
       "script",
       "span",
+      "strong",
       "style",
       "svg",
       "title",
@@ -85,12 +87,20 @@
       "theme__toggle"
     ],
     "ids": [
+      "-and-",
+      "-or-here-document",
+      "-or-here-string",
+      "-or-input-redirection",
+      "input-redirection",
       "menu",
+      "mn-and-mn",
+      "output-redirection",
       "prism-dark",
       "prism-light",
       "search__suggestions",
       "search__text",
-      "what-did-i-learn"
+      "what-did-i-learn",
+      "you-can-combine-them"
     ]
   }
 }
