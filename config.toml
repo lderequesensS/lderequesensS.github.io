@@ -94,12 +94,7 @@ author = "Leonardo de Requeséns"
     url = "/"
     weight = 10
   [[menu.main]]
-   identifier = "cv"
-   name = "CV"
-   url = "/cv"
-   weight = 20
-  [[menu.main]]
     identifier = "about"
     name = "About"
     url = "/about"
-    weight = 30
+    weight = 20
