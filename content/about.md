@@ -1,6 +1,6 @@
 ---
 title: "About"
-draft: false
+draft: true
 ---
 
 My name is Leonardo de Requeséns
